@@ -17,10 +17,10 @@ This tool utilizes data from:
 ## How to Cite
 If you use this tool in your research or work, please cite it as follows:
 
-[Your Full Name]. (2024). *Botanical Species Identification Tool (e-Flora of South Africa Edition)* (Version 1.2). Retrieved from https://github.com/Gouania/botanical-id-tool-sa
+[Daniel Cahen]. (2024). *Botanical Species Identification Tool (e-Flora of South Africa Edition)* (Version 1.2). Retrieved from https://github.com/Gouania/botanical-id-tool-sa
 
 ## Author
-*   **[Your Full Name]** ([Gouania](https://github.com/Gouania))
+*   **[Daniel Cahen]** ([Gouania](https://github.com/Gouania))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
