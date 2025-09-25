@@ -1,6 +1,0 @@
-google-generativeai
-pandas
-folium
-tqdm
-markdown
-pygbif
